@@ -64,4 +64,3 @@ form.addEventListener('submit', async (e) => {
     chatbox.scrollTop = chatbox.scrollHeight;
     input.value = '';
 });
-
